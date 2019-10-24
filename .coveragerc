@@ -1,0 +1,7 @@
+[run]
+branch = True
+
+[paths]
+airflow_docker_notifier =
+    src/airflow_docker_notifier/
+    .tox/**/airflow_docker_notifier/
